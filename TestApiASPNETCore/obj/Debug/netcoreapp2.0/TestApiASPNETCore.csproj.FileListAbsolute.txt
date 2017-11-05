@@ -1,0 +1,11 @@
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/bin/Debug/netcoreapp2.0/TestApiASPNETCore.deps.json
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/bin/Debug/netcoreapp2.0/TestApiASPNETCore.runtimeconfig.json
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/bin/Debug/netcoreapp2.0/TestApiASPNETCore.runtimeconfig.dev.json
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/bin/Debug/netcoreapp2.0/TestApiASPNETCore.dll
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/bin/Debug/netcoreapp2.0/TestApiASPNETCore.pdb
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/obj/Debug/netcoreapp2.0/TestApiASPNETCore.csproj.CoreCompileInputs.cache
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/obj/Debug/netcoreapp2.0/TestApiASPNETCore.AssemblyInfoInputs.cache
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/obj/Debug/netcoreapp2.0/TestApiASPNETCore.AssemblyInfo.cs
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/obj/Debug/netcoreapp2.0/TestApiASPNETCore.dll
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/obj/Debug/netcoreapp2.0/TestApiASPNETCore.pdb
+/Users/ethanratnarajah/Projects/TestApiASPNETCore/TestApiASPNETCore/obj/Debug/netcoreapp2.0/TestApiASPNETCore.csprojResolveAssemblyReference.cache
